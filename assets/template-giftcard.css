@@ -96,7 +96,7 @@ h2,
   border: none;
   padding: 1.5rem 3rem;
   text-decoration: none;
-  background-color: rgb(var(--color-button));
+  /* background-color: rgb(var(--color-button)); */
   box-shadow: 0 0 0 0.1rem rgb(var(--color-button));
   color: rgb(var(--color-button-label));
   min-width: 12rem;

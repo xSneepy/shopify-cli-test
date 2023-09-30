@@ -72,15 +72,10 @@
 }
 
 /* base */
-.body{
-  background-color: black;
-}
-
 .button
 {
-  background-color: black;
+  background-color: aqua !important;
 }
-
 .no-js:not(html) {
   display: none !important;
 }
