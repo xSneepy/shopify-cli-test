@@ -72,10 +72,7 @@
 }
 
 /* base */
-.button
-{
-  background-color: aqua !important;
-}
+
 .no-js:not(html) {
   display: none !important;
 }
