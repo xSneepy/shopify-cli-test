@@ -1,12 +1,12 @@
 
-  "name": "AmoledOrthinanosRed",
+  "name": "AmoledOrthinanosRed_Luffy",
   "description": "Amoled Red revamp of my BetterDiscord theme.",
   "version": "1.2",
   "color": "#ff2b2b",
   "authors": [
     {
-      "name": "Rosie",
-      "id": "99239287052054528"
+      "name": "Rosie_RemixedBySneepy",
+      "id": "281074064662069249"
     }
   ],
   "theme_color_map": {
